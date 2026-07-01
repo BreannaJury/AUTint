@@ -179,6 +179,8 @@ function App() {
             sx={{
               bgcolor: 'primary.main',
               color: '#fff',
+              width: 56,
+              height: 56,
               '&:hover': { bgcolor: 'primary.light' },
               '&.Mui-disabled': { bgcolor: '#cfd6e0' },
             }}
